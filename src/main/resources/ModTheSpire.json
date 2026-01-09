@@ -1,0 +1,10 @@
+{
+  "modid": "macosmenubarfix",
+  "name": "macOS Menu Bar Fix",
+  "author_list": ["Community"],
+  "description": "Fixes macOS menu bar visibility issue in borderless fullscreen mode. The menu bar will auto-hide while playing, appearing only when you move the mouse to the top of the screen.",
+  "version": "1.0.0",
+  "sts_version": "01-18-2024",
+  "mts_version": "3.30.0",
+  "dependencies": ["basemod"]
+}

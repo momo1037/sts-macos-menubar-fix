@@ -1,0 +1,7 @@
+{
+  "title": "macOS Menu Bar Fix",
+  "description": "Fixes the macOS menu bar visibility issue when playing in borderless fullscreen mode.\n\nFeatures:\n- Auto-hides menu bar & Dock when focused\n- Restores them on exit\n- Solves the LWJGL 2 compatibility issue\n\nEssential for playing Slay the Spire on modern macOS versions!",
+  "visibility": "public",
+  "changeNote": "Initial Release",
+  "tags": ["UI", "Utility"]
+}
